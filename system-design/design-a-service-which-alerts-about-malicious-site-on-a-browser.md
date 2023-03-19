@@ -18,3 +18,13 @@ description: Notes
 * <mark style="color:red;">Secure -</mark>  Our service should be secure that no one can just mark any website as malicious
 * <mark style="color:red;">Scalability</mark> -  Should withstand peak loads
 * <mark style="color:red;">Performance</mark>  - Should be able to classify websites as malicious with minimal latency
+
+## 3. Back of the envelope estimations
+
+* Daily Active users - 1 Billion
+* Average number of sites a user visits in a day = 20
+* Network Estimation:
+  * 10^9 \* 20 /10^5 = 2 \* 10^5 \* 1000 Bytes(Assuming avg URL length is 1000)
+  * \= 0.2GBPS = 1.6Gbps incoming
+*
+* ###
