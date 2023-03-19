@@ -31,3 +31,4 @@ Back of the envelope estimations really don't seem to be useful for this specifi
 
 ## 4. High Level Design
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Initial Design</p></figcaption></figure>
