@@ -22,6 +22,6 @@ Hello World!
 
 Follow the instructions below if you get `'rustc' is not recognized as an internal or external command, operable program or batch file.`
 
-Go to [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install) and install rust as per your Operating System
+💡 Go to [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install) and install rust as per your Operating System
 
 ``

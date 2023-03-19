@@ -4,4 +4,4 @@
 
 ## 🦀 Rust
 
-* [1.Hello World](rust/1.hello-world.md)
+* [1.Hello World](group-1/page-1.md)
