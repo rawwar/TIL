@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [💾 Today I Learned](README.md)
 
 ## Group 1
 
