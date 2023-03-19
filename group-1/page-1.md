@@ -1,7 +1,3 @@
----
-description: '- on windows'
----
-
 # 1.Hello World
 
 Make a new file named `main.rs` and include the following code.
