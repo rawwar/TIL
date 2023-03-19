@@ -26,6 +26,8 @@ description: Notes
 * Network Estimation:
   * 10^9 \* 20 /10^5 = 2 \* 10^5 \* 1000 Bytes(Assuming avg URL length is 1000)
   * \= 0.2GBPS = 1.6Gbps incoming
-*
 
 Back of the envelope estimations really don't seem to be useful for this specific system. Reason being, we could just store malicious website data on the client side and just keep updating this asynchronously.
+
+## 4. High Level Design
+
