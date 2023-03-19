@@ -2,6 +2,6 @@
 
 * [💾 Today I Learned](README.md)
 
-## Group 1
+## 🦀 Rust
 
-* [Page 1](group-1/page-1.md)
+* [1.Hello World](rust/1.hello-world.md)
