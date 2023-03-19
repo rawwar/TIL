@@ -4,6 +4,10 @@ description: A collection of thoughts, notes and codes
 
 # 💾 Today I Learned
 
+## Code
+
+You can find all the codes referenced at [github.com/rawwar](https://www.github.com/rawwar)
+
 ### References
 
 This is inspired by the works of the following wonderful people
