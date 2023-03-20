@@ -65,3 +65,7 @@ $ autoninja -C out/Default chrome
 ```
 $ out/Default/chrome
 ```
+
+And, it just runs
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
