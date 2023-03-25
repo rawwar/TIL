@@ -1,6 +1,7 @@
 # Table of contents
 
 * [💾 Today I Learned](README.md)
+  * [Stuff I want to learn](master/stuff-i-want-to-learn.md)
 
 ## 🦀 Rust
 
