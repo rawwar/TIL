@@ -15,3 +15,8 @@
 ## Chromium
 
 * [Setting up development environment for chromium on Windows(WSL)](chromium/setting-up-development-environment-for-chromium-on-windows-wsl.md)
+
+## Python
+
+* [Package explorations](python/package-explorations/README.md)
+  * [argcomplete](python/package-explorations/argcomplete.md)
